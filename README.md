@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+compact/pie
 -->
 
 I’m currently working on Spacebox voxel game
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=pie">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
 </p>
 
 
