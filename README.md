@@ -17,6 +17,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/youtube/channel/subscribers/UCwH5iKIf2u6HHVXmkB1bReg">  
 </p>
 
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=PasterLak&icon=5&color=11">  
+</p>
+
 compact/pie
 -->
 ## 🌐 Socials:
@@ -25,5 +29,7 @@ compact/pie
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
 </p>
+
+
 
 
