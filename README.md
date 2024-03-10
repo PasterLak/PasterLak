@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 I’m currently working on Spacebox voxel game
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PasterLak&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
+</p>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PasterLak)](https://github.com/anuraghazra/github-readme-stats">
 </p>
