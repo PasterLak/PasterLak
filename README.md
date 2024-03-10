@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **PasterLak/PasterLak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCwH5iKIf2u6HHVXmkB1bReg">  
+</p>
+
 compact/pie
 -->
-
-I’m currently working on Spacebox voxel game
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasterlak) 
+# 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
 </p>
