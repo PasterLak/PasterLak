@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+\&layout=compact
 <p>
   <img src="https://img.shields.io/youtube/channel/subscribers/UCwH5iKIf2u6HHVXmkB1bReg">  
 </p>
@@ -30,4 +30,4 @@ compact/pie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683)](https://github.com/anuraghazra/github-readme-stats\&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683)](https://github.com/anuraghazra/github-readme-stats)
