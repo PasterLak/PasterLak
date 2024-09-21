@@ -25,6 +25,8 @@ compact/pie
 -->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasterlak) 
+
+[![wakatime](https://wakatime.com/badge/user/018e27ac-c657-4924-89bb-21c16b1ca683.svg)](https://wakatime.com/@018e27ac-c657-4924-89bb-21c16b1ca683)
 # 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
