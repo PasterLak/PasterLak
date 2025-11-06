@@ -24,13 +24,17 @@ Here are some ideas to get you started:
 compact/pie
 -->
 
-## 🌐 Socials:
+### ⚡ 
+
+      C#/.NET, C++, Computer Graphics, Game Development, Algorithms
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasterlak) 
 
 
-## 📊 Coding Stats (since march 2024):
+### 📊 Coding Stats (since march 2024):
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683\&layout=compact&langs_count=22&hide_title=true&display_format=time)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683\&layout=compact&langs_count=24&hide_title=true&display_format=time)
 
 
 
