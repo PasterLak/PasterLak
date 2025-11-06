@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--
 **PasterLak/PasterLak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,13 +23,22 @@ Here are some ideas to get you started:
 
 compact/pie
 -->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasterlak) 
 
-[![wakatime](https://wakatime.com/badge/user/018e27ac-c657-4924-89bb-21c16b1ca683.svg)](https://wakatime.com/@018e27ac-c657-4924-89bb-21c16b1ca683)
-# 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterLak&layout=compact">  
-</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Coding Stats (since march 2024):
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018e27ac-c657-4924-89bb-21c16b1ca683\&layout=compact&langs_count=22&hide_title=true&display_format=time)
+
+
+
+
+
+
+
+
+
+
+
