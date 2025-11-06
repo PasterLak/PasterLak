@@ -26,10 +26,17 @@ compact/pie
 
 ### ⚡ 
 
-      C#/.NET, C++, Computer Graphics, Game Development, Algorithms
+
+```javascript
+C#/.NET, C++, Computer Graphics
+Game Development, Algorithms
+```
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasterlak) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasterlak) 
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://linkedin.com/in/pasterlak)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@SpaceboxGame/videos)
+
 
 
 ### 📊 Coding Stats (since march 2024):
